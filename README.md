@@ -1,6 +1,5 @@
 # Mosquito Detection App
  (Ongoing) Mosquito Detection App
-[Untitled Database](https://www.notion.so/ed5be5d785d64245b6bee7eb8cea2d2c?pvs=21)
 
 07/15/23
 
